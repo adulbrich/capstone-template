@@ -36,7 +36,7 @@ Writing assignments will include:
 - software development process (through PRs)
 - progress reports
 
-Whenever an assignment can be reviwed in a GitHub PR, please assign your instructors for review.
+Whenever an assignment can be reviewed in a GitHub PR, please assign your instructors for review.
 
 ## A Few Things to Address
 
