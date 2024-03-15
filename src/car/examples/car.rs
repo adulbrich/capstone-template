@@ -16,7 +16,7 @@ fn main() {
     // Create cars
     let mut car_definitions = Vec::new();
     car_definitions.push(build_car([0., 0., 0.], ControlType::WASD, 0));
-    car_definitions.push(build_car([0., 2., 0.], ControlType::Arrow, 1));
+    car_definitions.push(build_car([0., 2., 0.], ControlType::Arrow, 1)); // COMMENT THIS OUT IF YOU ONLY WANT 1 CAR
 
     let players = CarList {
         cars: car_definitions,
